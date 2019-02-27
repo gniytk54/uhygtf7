@@ -1,1 +1,2 @@
-# uhygtf7
+# Probot ✨
+Epic Discord Bot
